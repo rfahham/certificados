@@ -134,8 +134,7 @@ NGINX: Servidor Web, Proxy reverso e API Gateway, Alura – 06/2022
 - Associate Cloud Engineer parte 3: A certificação do Google Cloud, Alura – 02/2022
 - Associate Cloud Engineer parte 4: A certificação do Google Cloud, Alura – 02/2022
 - Servidores e Datacenter, Academia de Tecnologia – 04/2021
-
-A## WS na prática, Academy – 02/2022
+- AWS na prática, Academy – 02/2022
 - Deploy no Amazon EC2: Alta disponibilidade e escalabilidade de uma aplicação, Alura – 03/2022
 
 ### Programação
